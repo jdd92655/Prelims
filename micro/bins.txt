@@ -1,0 +1,96 @@
+ 2009 FIRST TAKE
+
+1: Producer behaviour
+2. Producer behaviour (equilibrium)
+3. Consumer behaviour (Pareto)
+4. Consumer behaviour (equilibrium)
+5. Price and Income Elasticities. 
+
+2010 FIRST TAKE
+
+1. Pareto Optimality (Theory and Discussion)
+2. Consumer Behaviour (Duality)
+3. Producer Behaviour (Cost optimization)
+4. Pareto (Social Welfare optimization)
+5. Producer Behaviour (Profit max under taxation)
+
+2011 FIRST TAKE
+
+1. Consumer behaviour and Engel Aggregation (Theory)
+2. Producer Behaviour (Optimization under technological constraints)
+3. Consumer Behaviour (Pareto Efficiency and Edgeworth box calculations)
+4. Producer Behaviour (Cournot and Stackelberg equilibriums under competition)
+5. Producer Behaviour (rival, non-rival, private, public goods theory + calculation)
+
+2012 FIRST TAKE
+
+1. Pareto Efficiency (Numerical Problem for Welfare Max/ allocation optimality)
+2. Producer Behaviour (Theory : Price Discrimination and Profit max with graphs)
+3. Producer Behaviour (Profit Max under taxation/ Cost Function theory)
+4. Pareto Efficiency (Theory + Numerical Problem and Lindahl prices)
+
+
+2013 FIRST TAKE
+
+1. Producer Behaviour (Theory/ profit max under input constraints and competition)
+2. Producer Behaviour (Numerical problem with Pareto calculations)
+3. Producer Behaviour (Theory with externality, monopoly and social optimum + calc)
+4. Consumer Behaviour (Pareto optimality + WTP + Nash equilibrium)
+5. Game Theory (Extensive Form game with equilibrium considerations)
+
+2015 FIRST TAKE
+
+1. Producer Behaviour (Theory: Cost Function + Production Function)
+2. Taxation (Theory)
+3. Stochastic Dominance (Theory) + Consumer Behaviour under certainty
+4. Producer Behaviour (Comp Equilibrium + Social optimality under Taxation)
+5. Game Theory (Pure strategy Nash equilibria)
+
+2016 FIRST TAKE 
+
+1. Consumer Behaviour (Theory: Duality)
+2. Pareto Efficiency (Calculations under pure exchange Comp. Equilibrium) +
+   Consumption + Production by same entity (Numerical Problem)
+3. Bertrand, Cournot and Stackelberg (Theory/expostion + equilibria calculations)
+4. Game theory (pure strategy NE + subgame perfect Eq.)
+
+2016 RETAKE
+
+1. Producer Theory (Freshman Micro definitions) + short run calculations. 
+2. Pareto Optimality calculations + Walrsaian Eq. (Efficiency v equality v fairness3. Profit Max under pricing strategies
+4. Game Theory (Nash Equilibria calculations)
+
+2017 FIRST TAKE
+
+1. Engel Aggregation (Theory) + Consumer Utility Max calculation. 
+2. Pareto Efficiency (calculations + illustration) + Walrasian Eq. identification. 
+3. Producer Behaviour (Freshman Micro definitions/exposition)
+4. Producer Behaviour in perfectly competitive markets (Simple numericals)
+5. Game Theory (Monopolist behaviour, find subgame perfect eq/ Nash eq)
+
+2017 RETAKE
+
+1. Producer Theory (Definitions + properties of Profit func) + simple numericals
+2. Pareto Efficiency (Edgeworth Box + comp. Walrasian Eq illustration)
+3. Freshman Theory + Exposition (Bertrant/Cournot/Comp Markets/Monopoly) +
+   Cournot game calculations + Nash Eq under cooperation
+4. Risk preferences/consumer behaviour under uncertainty(numericals+illustration)
+5. Game Theory (pure strategy+ mixed strategy NE + subgame perfect eq calculation)
+
+
+2018 FIRST TAKE
+
+1. Consumer behaviour (utility max calculation + Optimal Value Function theory)
+2. Producer Behaviour (Freshman definitions + Theory)
+3. Producer behaviour under uncertainty (Monopoly + Taxation/subsidy)
+4. Pure exchange economy calculations (Edgeworth box + Comp. Eqm.)
+5. Game Theory (Freshman exposition + Bayesian equilibria calculations)
+
+2018 RETAKE
+
+1. Consumer Behaviour (simple calculations with Duality)
+2. Compensating Variation and Equivalent Variation (Theory)
+3. Producer Behaviour under monopoly (Profit max + Welfare calculations)
+4. Pure Exchange Economy calculations (Edgeworth box, Pareto Optimality + Walras Eq
+   + Competitive Equilibrium calculations (returns to scale, demand/supply funcs)
+5. Game Theory (pure strategy NE + mixed strategies)
