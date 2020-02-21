@@ -1,0 +1,1 @@
+Initialize AFRE lecture notes
